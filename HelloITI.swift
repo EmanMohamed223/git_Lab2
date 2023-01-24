@@ -6,3 +6,7 @@
 //
 
 import Foundation
+funt printHelloITI()
+{
+    print("hiiii")
+}
