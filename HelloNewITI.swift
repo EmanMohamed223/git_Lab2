@@ -10,3 +10,7 @@ funt printHelloITI()
 {
     print("hiiii")
 }
+func printhellogit()
+{
+    print("second")
+}
